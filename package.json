@@ -1,7 +1,9 @@
 {
 	"author": "Antony Andrus",
+	"description": "To learn nodejs",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"11": "^0.0.1",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
